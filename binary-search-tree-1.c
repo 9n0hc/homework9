@@ -19,9 +19,6 @@ Node* searchRecursive(Node* ptr, int key);  /* search the node for the key */
 Node* searchIterative(Node* head, int key);  /* search the node for the key */
 int freeBST(Node* head); /* free all memories allocated to the tree */
 
-/* you may add your own defined functions if necessary */
-
-
 int main()
 {
     printf("[----- [¿Ã¿∫√—] [2022041043] -----]\n");
